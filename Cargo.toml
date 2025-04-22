@@ -1,0 +1,9 @@
+[workspace]
+members = [
+	"crates/carapace",
+	"crates/clawframe",
+	"crates/crabdb",
+	"crates/crabrave",
+	"crates/pinchpack",
+	"crates/sandscuttle"
+]
