@@ -3,8 +3,13 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="d"
-                 name="dc_stack"
-                 start-page="starter-topic.md">
+                 name="Crab Rave Radio (The Dumb Stack)"
+                 start-page="Introduction.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Introduction.md"/>
+    <toc-element toc-title="Pinchpack">
+        <toc-element topic="Pinchpack-Introduction.md"/>
+        <toc-element topic="IP-addressing.md"/>
+        <toc-element topic="Glossary.md"/>
+    </toc-element>
 </instance-profile>
